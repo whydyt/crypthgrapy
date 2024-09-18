@@ -1,7 +1,7 @@
 # crypthgrapy
 hashcalc
 
-1.
+1. tampilan awal aplikasi hashcalc dan kemudian ceklist sesuai dengan modul
 <img width="406" alt="hashcalc1" src="https://github.com/user-attachments/assets/b8fac240-d7aa-456a-b0ea-a7c19728a568">
 
 
@@ -10,7 +10,7 @@ hashcalc
 
 
 
-2.
+2. kemudian setelah di setting klik calculate dan akan muncul tampilan seperti di bawah ini
 
 
 
